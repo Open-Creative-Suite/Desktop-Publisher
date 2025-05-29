@@ -1,4 +1,4 @@
-# ![DtP (Custom)](https://github.com/user-attachments/assets/05ad3631-eafe-4f77-b7fd-e06b56a837c7) Desktop Publisher
+# ![DtP (Custom)](https://github.com/user-attachments/assets/02e645c8-bbed-49da-942e-ddee0e36898d) Desktop Publisher
 
 **Desktop Publisher** is part of **Open Creative Suite**—a free and open-source alternative to Adobe Creative Suite, designed for creative professionals.
 
