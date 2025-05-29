@@ -1,1 +1,1 @@
-# ![dtp (Custom)](https://github.com/user-attachments/assets/4b84f425-5eee-477c-8c95-6ac4109d6c05) Desktop Publisher
+# ![DtP (Custom)](https://github.com/user-attachments/assets/05ad3631-eafe-4f77-b7fd-e06b56a837c7) Desktop Publisher
